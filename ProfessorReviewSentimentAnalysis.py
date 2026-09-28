@@ -1,3 +1,6 @@
+# Code changed to Python. Originally from colab.research.google.com in Jupyter Notebook.
+# Jupyter Notebook: https://colab.research.google.com/drive/1h8vS4ESBEJQEQFL3kjXyUuVSPS1Gwviw?usp=sharing
+
 import random
 import numpy as np
 import torch

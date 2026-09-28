@@ -45,8 +45,8 @@ Key highlights:
 
 | Metric | Accuracy Score | Description |
 | :--- | :--- | :--- |
-| **Exact Match Accuracy** | `XX.X%` | Predictions matching the exact star rating ($1 \to 5$) |
-| **Within $\pm 1$ Star Accuracy** | `XX.X%` | Predictions within $1$ star of the actual rating |
+| **Exact Match Accuracy** | `68.6%` | Predictions matching the exact star rating ($1 \to 5$) |
+| **Within $\pm 1$ Star Accuracy** | `92.2%` | Predictions within $1$ star of the actual rating |
 
 ### Insights & Misclassifications
 Analysis of misclassified samples revealed that reviews with mixed sentiment (e.g., praise for teaching quality paired with harsh grading complaints) presented the highest variance, highlighting the inherent subjectivity of 5-star rating systems.
