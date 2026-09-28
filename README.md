@@ -41,7 +41,7 @@ Key highlights:
 
 ## Performance & Results
 
-> *Note: Update the accuracy metrics below with your actual run outputs.*
+> *Note: Rerun the Python project on device. Or do it in Colab to get results since Colab uses external processing compared to a laptop.*
 
 | Metric | Accuracy Score | Description |
 | :--- | :--- | :--- |
